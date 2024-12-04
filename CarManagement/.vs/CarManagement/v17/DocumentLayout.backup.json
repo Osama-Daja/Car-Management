@@ -1,12 +1,207 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Github\\Repository\\Car-Management\\CarManagement\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AA96E6-A628-4A63-A961-C969C335ED76}|CarManagement\\CarManagement.csproj|e:\\github\\repository\\car-management\\carmanagement\\carmanagement\\database\\entities\\users\\userbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AA96E6-A628-4A63-A961-C969C335ED76}|CarManagement\\CarManagement.csproj|solutionrelative:carmanagement\\database\\entities\\users\\userbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AA96E6-A628-4A63-A961-C969C335ED76}|CarManagement\\CarManagement.csproj|e:\\github\\repository\\car-management\\carmanagement\\carmanagement\\database\\entities\\users\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AA96E6-A628-4A63-A961-C969C335ED76}|CarManagement\\CarManagement.csproj|solutionrelative:carmanagement\\database\\entities\\users\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AA96E6-A628-4A63-A961-C969C335ED76}|CarManagement\\CarManagement.csproj|e:\\github\\repository\\car-management\\carmanagement\\carmanagement\\database\\entities\\users\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AA96E6-A628-4A63-A961-C969C335ED76}|CarManagement\\CarManagement.csproj|solutionrelative:carmanagement\\database\\entities\\users\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AA96E6-A628-4A63-A961-C969C335ED76}|CarManagement\\CarManagement.csproj|e:\\github\\repository\\car-management\\carmanagement\\carmanagement\\database\\entities\\operations\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AA96E6-A628-4A63-A961-C969C335ED76}|CarManagement\\CarManagement.csproj|solutionrelative:carmanagement\\database\\entities\\operations\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AA96E6-A628-4A63-A961-C969C335ED76}|CarManagement\\CarManagement.csproj|e:\\github\\repository\\car-management\\carmanagement\\carmanagement\\database\\entities\\users\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AA96E6-A628-4A63-A961-C969C335ED76}|CarManagement\\CarManagement.csproj|solutionrelative:carmanagement\\database\\entities\\users\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AA96E6-A628-4A63-A961-C969C335ED76}|CarManagement\\CarManagement.csproj|e:\\github\\repository\\car-management\\carmanagement\\carmanagement\\database\\entities\\operations\\carhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AA96E6-A628-4A63-A961-C969C335ED76}|CarManagement\\CarManagement.csproj|solutionrelative:carmanagement\\database\\entities\\operations\\carhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AA96E6-A628-4A63-A961-C969C335ED76}|CarManagement\\CarManagement.csproj|e:\\github\\repository\\car-management\\carmanagement\\carmanagement\\database\\entities\\car\\submodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AA96E6-A628-4A63-A961-C969C335ED76}|CarManagement\\CarManagement.csproj|solutionrelative:carmanagement\\database\\entities\\car\\submodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AA96E6-A628-4A63-A961-C969C335ED76}|CarManagement\\CarManagement.csproj|e:\\github\\repository\\car-management\\carmanagement\\carmanagement\\database\\entities\\car\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AA96E6-A628-4A63-A961-C969C335ED76}|CarManagement\\CarManagement.csproj|solutionrelative:carmanagement\\database\\entities\\car\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AA96E6-A628-4A63-A961-C969C335ED76}|CarManagement\\CarManagement.csproj|e:\\github\\repository\\car-management\\carmanagement\\carmanagement\\database\\entities\\car\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AA96E6-A628-4A63-A961-C969C335ED76}|CarManagement\\CarManagement.csproj|solutionrelative:carmanagement\\database\\entities\\car\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AA96E6-A628-4A63-A961-C969C335ED76}|CarManagement\\CarManagement.csproj|e:\\github\\repository\\car-management\\carmanagement\\carmanagement\\database\\entities\\car\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AA96E6-A628-4A63-A961-C969C335ED76}|CarManagement\\CarManagement.csproj|solutionrelative:carmanagement\\database\\entities\\car\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AA96E6-A628-4A63-A961-C969C335ED76}|CarManagement\\CarManagement.csproj|e:\\github\\repository\\car-management\\carmanagement\\carmanagement\\database\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AA96E6-A628-4A63-A961-C969C335ED76}|CarManagement\\CarManagement.csproj|solutionrelative:carmanagement\\database\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserBase.cs",
+              "DocumentMoniker": "E:\\Github\\Repository\\Car-Management\\CarManagement\\CarManagement\\Database\\Entities\\Users\\UserBase.cs",
+              "RelativeDocumentMoniker": "CarManagement\\Database\\Entities\\Users\\UserBase.cs",
+              "ToolTip": "E:\\Github\\Repository\\Car-Management\\CarManagement\\CarManagement\\Database\\Entities\\Users\\UserBase.cs",
+              "RelativeToolTip": "CarManagement\\Database\\Entities\\Users\\UserBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:20:24.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Github\\Repository\\Car-Management\\CarManagement\\CarManagement\\Database\\Entities\\Users\\Customer.cs",
+              "RelativeDocumentMoniker": "CarManagement\\Database\\Entities\\Users\\Customer.cs",
+              "ToolTip": "E:\\Github\\Repository\\Car-Management\\CarManagement\\CarManagement\\Database\\Entities\\Users\\Customer.cs",
+              "RelativeToolTip": "CarManagement\\Database\\Entities\\Users\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:20:15.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Buyer.cs",
+              "DocumentMoniker": "E:\\Github\\Repository\\Car-Management\\CarManagement\\CarManagement\\Database\\Entities\\Users\\Buyer.cs",
+              "RelativeDocumentMoniker": "CarManagement\\Database\\Entities\\Users\\Buyer.cs",
+              "ToolTip": "E:\\Github\\Repository\\Car-Management\\CarManagement\\CarManagement\\Database\\Entities\\Users\\Buyer.cs",
+              "RelativeToolTip": "CarManagement\\Database\\Entities\\Users\\Buyer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:20:07.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "E:\\Github\\Repository\\Car-Management\\CarManagement\\CarManagement\\Database\\Entities\\Users\\Admin.cs",
+              "RelativeDocumentMoniker": "CarManagement\\Database\\Entities\\Users\\Admin.cs",
+              "ToolTip": "E:\\Github\\Repository\\Car-Management\\CarManagement\\CarManagement\\Database\\Entities\\Users\\Admin.cs",
+              "RelativeToolTip": "CarManagement\\Database\\Entities\\Users\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:19:43.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Offer.cs",
+              "DocumentMoniker": "E:\\Github\\Repository\\Car-Management\\CarManagement\\CarManagement\\Database\\Entities\\Operations\\Offer.cs",
+              "RelativeDocumentMoniker": "CarManagement\\Database\\Entities\\Operations\\Offer.cs",
+              "ToolTip": "E:\\Github\\Repository\\Car-Management\\CarManagement\\CarManagement\\Database\\Entities\\Operations\\Offer.cs",
+              "RelativeToolTip": "CarManagement\\Database\\Entities\\Operations\\Offer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:18:50.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarHistory.cs",
+              "DocumentMoniker": "E:\\Github\\Repository\\Car-Management\\CarManagement\\CarManagement\\Database\\Entities\\Operations\\CarHistory.cs",
+              "RelativeDocumentMoniker": "CarManagement\\Database\\Entities\\Operations\\CarHistory.cs",
+              "ToolTip": "E:\\Github\\Repository\\Car-Management\\CarManagement\\CarManagement\\Database\\Entities\\Operations\\CarHistory.cs",
+              "RelativeToolTip": "CarManagement\\Database\\Entities\\Operations\\CarHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:17:33.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Submodel.cs",
+              "DocumentMoniker": "E:\\Github\\Repository\\Car-Management\\CarManagement\\CarManagement\\Database\\Entities\\Car\\Submodel.cs",
+              "RelativeDocumentMoniker": "CarManagement\\Database\\Entities\\Car\\Submodel.cs",
+              "ToolTip": "E:\\Github\\Repository\\Car-Management\\CarManagement\\CarManagement\\Database\\Entities\\Car\\Submodel.cs",
+              "RelativeToolTip": "CarManagement\\Database\\Entities\\Car\\Submodel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:17:17.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model.cs",
+              "DocumentMoniker": "E:\\Github\\Repository\\Car-Management\\CarManagement\\CarManagement\\Database\\Entities\\Car\\Model.cs",
+              "RelativeDocumentMoniker": "CarManagement\\Database\\Entities\\Car\\Model.cs",
+              "ToolTip": "E:\\Github\\Repository\\Car-Management\\CarManagement\\CarManagement\\Database\\Entities\\Car\\Model.cs",
+              "RelativeToolTip": "CarManagement\\Database\\Entities\\Car\\Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:17:04.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Location.cs",
+              "DocumentMoniker": "E:\\Github\\Repository\\Car-Management\\CarManagement\\CarManagement\\Database\\Entities\\Car\\Location.cs",
+              "RelativeDocumentMoniker": "CarManagement\\Database\\Entities\\Car\\Location.cs",
+              "ToolTip": "E:\\Github\\Repository\\Car-Management\\CarManagement\\CarManagement\\Database\\Entities\\Car\\Location.cs",
+              "RelativeToolTip": "CarManagement\\Database\\Entities\\Car\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:16:31.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\Github\\Repository\\Car-Management\\CarManagement\\CarManagement\\Database\\Entities\\Car\\Car.cs",
+              "RelativeDocumentMoniker": "CarManagement\\Database\\Entities\\Car\\Car.cs",
+              "ToolTip": "E:\\Github\\Repository\\Car-Management\\CarManagement\\CarManagement\\Database\\Entities\\Car\\Car.cs",
+              "RelativeToolTip": "CarManagement\\Database\\Entities\\Car\\Car.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:15:35.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "E:\\Github\\Repository\\Car-Management\\CarManagement\\CarManagement\\Database\\DBContext.cs",
+              "RelativeDocumentMoniker": "CarManagement\\Database\\DBContext.cs",
+              "ToolTip": "E:\\Github\\Repository\\Car-Management\\CarManagement\\CarManagement\\Database\\DBContext.cs",
+              "RelativeToolTip": "CarManagement\\Database\\DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:55:18.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
